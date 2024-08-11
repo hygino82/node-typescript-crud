@@ -1,0 +1,30 @@
+# Dependências do Node.js
+node_modules/
+
+# Diretório de saída do TypeScript
+dist/
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambiente local
+.env
+.env.local
+.env.*.local
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Configurações de editores/IDEs
+.vscode/
+.idea/
+*.swp
+
+# MacOS arquivos
+.DS_Store
+
+# Logs do TypeScript
+*.tsbuildinfo
